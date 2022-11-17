@@ -24,9 +24,9 @@ const SearchHeader = () => {
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png" 
           width="120"
           height="40"
-          objectFit="contain"
           className="cursor-pointer"
           onClick={()=>router.push('/')}
+          alt="google-logo"
         />
 
         <form className="flex border border-gray-200 rounded-full flex-grow px-6 py-2 shadow-lg ml-10 mr-5 max-w-3xl items-center">

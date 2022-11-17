@@ -39,6 +39,7 @@ export default function Home() {
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png" 
           width="300"
           height="100"
+          alt="google-logo"
         />
         <div className="flex mt-6 border border-gray-200 px-5 py-3 w-full max-w-[90%] mx-auto hover:shadow-lg focus-within:shadow-lg rounded-full items-center sm:max-w-xl lg:max-w-2xl">
           <MagnifyingGlassIcon className="h-5 text-gray-500 mr-3"/>
